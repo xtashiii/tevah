@@ -1,0 +1,20 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+.main.py.swp
+
+# Virtual environments
+.venv
+
+# Development files
+tasks.md
+
+# Default library directory
+books/
+
+# Session files
+bookshelf.db
